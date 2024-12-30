@@ -1,4 +1,9 @@
 {
+    "functions": {
+    "python": {
+      "runtime": "python3.11"
+    }
+  },
     "version": 2,
     "builds": [
       {
